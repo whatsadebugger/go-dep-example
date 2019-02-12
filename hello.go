@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println(quote.Go())
+	fmt.Println(quote.Glass())
 	uu, _ := uuid.NewRandom()
 	fmt.Println(uu.String())
 }
